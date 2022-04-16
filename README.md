@@ -1,2 +1,2 @@
 # HackerRank-Solutions
-HackerRank Challeges, solved to study
+HackerRank Challeges solved to study
