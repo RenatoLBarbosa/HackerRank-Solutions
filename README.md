@@ -73,11 +73,6 @@ HackerRank Challeges solved to study
         <td><a href="https://github.com/RenatoLBarbosa/HackerRank-Solutions/blob/main/Introduction/JavaCurrencyFormatter.java">JavaCurrencyFormatter.java</a></td>
     </tr>
     <tr>
-        <td>Introduction</td>
-        <td><a href="https://www.hackerrank.com/challenges/java-currency-formatter/problem">Java Currency Formatter</a></td>
-        <td><a href="https://github.com/RenatoLBarbosa/HackerRank-Solutions/blob/main/Introduction/JavaCurrencyFormatter.java">JavaCurrencyFormatter.java</a></td>
-    </tr>
-    <tr>
         <td>Strings</td>
         <td><a href="https://www.hackerrank.com/challenges/java-strings-introduction/problem">Java Strings Introduction</a></td>
         <td><a href="https://github.com/RenatoLBarbosa/HackerRank-Solutions/blob/main/Strings/JavaStringsIntroduction.java">JavaStringsIntroduction.java</a></td>
