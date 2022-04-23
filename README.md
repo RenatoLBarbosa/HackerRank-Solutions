@@ -24,6 +24,11 @@ HackerRank Challeges solved to study
     </tr>
     <tr>
         <td>Introduction</td>
+        <td><a href="https://www.hackerrank.com/challenges/java-if-else/problem">Java If-Else</a></td>
+        <td><a href="https://github.com/RenatoLBarbosa/HackerRank-Solutions/blob/main/Introduction/JavaIfElse.java">JavaIfElse.java</a></td>
+    </tr>
+    <tr>
+        <td>Introduction</td>
         <td><a href="https://www.hackerrank.com/challenges/java-output-formatting/problem">Java Output Formatting</a></td>
         <td><a href="https://github.com/RenatoLBarbosa/HackerRank-Solutions/blob/main/Introduction/JavaOutputFormatting.java">JavaOutputFormatting.java</a></td>
     </tr>
@@ -71,5 +76,10 @@ HackerRank Challeges solved to study
         <td>Introduction</td>
         <td><a href="https://www.hackerrank.com/challenges/java-currency-formatter/problem">Java Currency Formatter</a></td>
         <td><a href="https://github.com/RenatoLBarbosa/HackerRank-Solutions/blob/main/Introduction/JavaCurrencyFormatter.java">JavaCurrencyFormatter.java</a></td>
+    </tr>
+    <tr>
+        <td>Strings</td>
+        <td><a href="https://www.hackerrank.com/challenges/java-strings-introduction/problem">Java Strings Introduction</a></td>
+        <td><a href="https://github.com/RenatoLBarbosa/HackerRank-Solutions/blob/main/Strings/JavaStringsIntroduction.java">JavaStringsIntroduction.java</a></td>
     </tr>
 </table>
